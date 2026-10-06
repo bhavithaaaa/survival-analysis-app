@@ -1,0 +1,1 @@
+Copy km_curves.csv and cox_hazard_ratios.csv from your Google Drive folder (GradTwin@finalproject) into this folder.
